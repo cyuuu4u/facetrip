@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 15abb376dc2635043b327c7b77077f75
+timeCreated: 1477457884
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bgMusic: {instanceID: 0}
+  - bullet: {fileID: 5000000, guid: bace5592fa82ea0489d046f4e5e03296, type: 2}
+  - actor: {fileID: 400000, guid: e2895ebd9f10a4a44b3f1d1cde2cbd2a, type: 2}
+  - hit: {instanceID: 0}
+  - get: {fileID: 8300000, guid: 01cdea9abcbdcef45abcd748edab2a2a, type: 3}
+  - coin: {fileID: 196218, guid: 1e5d56dedb9517545a23290c589ee445, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

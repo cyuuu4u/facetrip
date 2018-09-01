@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3890b071fb7d0984881bdee7123a9da5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Monster: {fileID: 100000, guid: 5c077650aa1ea1d41a47d6ea043d93e8, type: 2}
+  - bullet: {fileID: 5000000, guid: c37208d43e017fa4ca444eca1c2a6692, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 

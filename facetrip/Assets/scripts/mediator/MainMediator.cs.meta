@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 5df3a4c77f8892d46b7fb98b59a7e31b
+timeCreated: 1477458011
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - uiMessageDialog: {instanceID: 0}
+  - uiPanelNavigateDialog: {instanceID: 0}
+  - uiPanelSettingDialog: {instanceID: 0}
+  - uiShortHint: {instanceID: 0}
+  - material: {instanceID: 0}
+  - PlayerControl: {fileID: 100000, guid: e2895ebd9f10a4a44b3f1d1cde2cbd2a, type: 2}
+  - actor: {instanceID: 0}
+  - Monster: {fileID: 100000, guid: 5c077650aa1ea1d41a47d6ea043d93e8, type: 2}
+  - get: {fileID: 8300000, guid: 6448fc0ce1867574dba15df9727d1097, type: 3}
+  - box: {fileID: 161618, guid: 3672d5b33ad84d548b3202aecb8c3ffd, type: 2}
+  - TIGER_MACHINE1: {fileID: 160790, guid: 8de526cb5866c054ea6258a22364ece4, type: 2}
+  - TIGER_MACHINE2: {fileID: 174950, guid: ff4fde152222555469f05303929deee5, type: 2}
+  - jinkela: {fileID: 137082, guid: aa1f398c016dae749a54a25df0b81242, type: 2}
+  - liquid: {fileID: 138356, guid: 3159c1ea05e06ae499838299f02bb56c, type: 2}
+  - shenbao: {fileID: 156136, guid: ce6b4668de90a304897779520eda41d4, type: 2}
+  - thuner: {fileID: 193846, guid: 2ac9ae3d1ea83374c8ef76d36369e0d9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
